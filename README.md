@@ -1,4 +1,5 @@
-*Spacecraft Power Management System*
+*_Spacecraft Power Management System_*
+
 <img width="691" alt="Power Management System" src="https://github.com/user-attachments/assets/02368da7-b1cb-47aa-84d7-723e71de5451">
 
 *Description*
@@ -38,6 +39,8 @@ Solar Panel: The solar panel produces power based on the given solar radiation a
 Battery: The battery stores excess power and discharges when there’s a power deficit.
 Load: The load consists of a constant base load and a peak load which occurs at regular intervals.
 Power Balance: The power balance calculation determines whether the system has a surplus or deficit of power, which is visualized using a scope block.
+
+https://github.com/user-attachments/assets/686e9bc9-fcac-401a-92a2-54873cb98b13
 
 *Usage*
 
