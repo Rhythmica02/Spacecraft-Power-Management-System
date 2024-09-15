@@ -17,7 +17,7 @@ Manage Power Balance: Calculate the net power generated versus consumed, with ba
 Visualization: Use a Simulink scope to plot the real-time power balance and monitor the system’s performance under changing conditions.
 
 *System Overview*
-!(https://github.com/Rhythmica02/Spacecraft-Power-Management-System/blob/main/SpacecraftPowerManagement.slx)
+
 1. Solar Panel Subsystem:
 Takes inputs such as solar radiation and an eclipse factor to simulate the power output of solar panels.
 Efficiency is set at 30%.
