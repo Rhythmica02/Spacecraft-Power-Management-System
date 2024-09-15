@@ -1,6 +1,6 @@
 *_Spacecraft Power Management System_*
 
-<img width="691" alt="Power Management System" src="https://github.com/user-attachments/assets/02368da7-b1cb-47aa-84d7-723e71de5451">
+<img width="539" alt="flow of work" src="https://github.com/user-attachments/assets/089cf67f-d601-4c8b-815f-1a85c4ef40b6">
 
 *Description*
 
@@ -17,6 +17,8 @@ Model the Power Storage Subsystem (Battery): Simulate the battery system that ch
 Model the Power Consumption Subsystem (Load): Represent the spacecraft's electrical loads with varying demands, including both base load and periodic peak loads.
 Manage Power Balance: Calculate the net power generated versus consumed, with battery charging or discharging to maintain balance.
 Visualization: Use a Simulink scope to plot the real-time power balance and monitor the system’s performance under changing conditions.
+
+<img width="691" alt="Power Management System" src="https://github.com/user-attachments/assets/02368da7-b1cb-47aa-84d7-723e71de5451">
 
 *System Overview*
 
