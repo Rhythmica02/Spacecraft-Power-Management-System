@@ -1,4 +1,4 @@
-Spacecraft Power Management Simulation in Simulink
+Spacecraft Power Management System
 Description
 This project simulates a basic spacecraft power management system using MATLAB Simulink. The simulation models the interaction between solar panels, batteries, and varying electrical loads to ensure efficient power balance in a spacecraft during orbit. The system takes into account solar radiation, eclipse conditions, battery charging and discharging, and fluctuating power demands from the spacecraft’s systems. The results of the power management system are visualized using a scope, showing the net power balance over time.
 
