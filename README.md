@@ -1,4 +1,5 @@
 *Spacecraft Power Management System*
+<img width="691" alt="Power Management System" src="https://github.com/user-attachments/assets/02368da7-b1cb-47aa-84d7-723e71de5451">
 
 *Description*
 
